@@ -1,11 +1,11 @@
-# Mario-Brick-Breaker
-
-
-![yoshio](https://user-images.githubusercontent.com/20764455/188511558-61f9af9b-0396-42d3-95ff-f0101cd9bb8e.gif)
+# Mario-Brick-Breaker ![yoshio](https://user-images.githubusercontent.com/20764455/188511558-61f9af9b-0396-42d3-95ff-f0101cd9bb8e.gif)
 
 
 Mario rides Yoshi to break all the bricks. Mario can't touch the bottom surface unless it is the paddle. 
 The player needs to move the paddle with the right or left direction to avoid Mario from falling.
+
+![Screenshot 2022-09-05 183404](https://user-images.githubusercontent.com/20764455/188528612-58089f12-7dd1-4d55-bb74-e593da9afba6.png)
+
 
 ## Instructions
 
